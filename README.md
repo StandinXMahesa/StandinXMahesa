@@ -10,7 +10,13 @@
 - 🥅 2022 Goals: Winning Hackathon, Getting Internship and Making a lot of project
 - ⚡ Fun fact: Love Peace Hate War, and Love,and Love Wathing Anime and Series
 
-<img align ="center" src="https://github.com/Ghanes22/Ghanes22/blob/master/gif/yaiba.gif" alt="GitHub Logo"  />
+</br>
+
+<div align = "center">
+<img  src="https://github.com/Ghanes22/Ghanes22/blob/master/gif/yaiba.gif" alt="GitHub Logo"  />
+</div>
+
+</br>
 
 ### Connect with me:
 
