@@ -1,4 +1,4 @@
-<img align = 'left' src="https://github.com/Ghanes22/Ghanes22/blob/master/gif/octo.gif" alt="GitHub Logo" width="150" height="200" />
+<img align = 'left' src="https://github.com/Ghanes22/Ghanes22/blob/master/gif/octo.gif" alt="GitHub Logo" width="175" height="200" />
 
 ## Hi there, I'm Ghanes 21 years old , a Student in Telkom University
 
@@ -10,7 +10,7 @@
 - 🥅 2022 Goals: Winning Hackathon, Getting Internship and Making a lot of project
 - ⚡ Fun fact: Love Peace Hate War, and Love,and Love Wathing Anime and Series
 
-<img align = 'center' src="https://github.com/Ghanes22/Ghanes22/blob/master/gif/yaiba.gif" alt="GitHub Logo"  />
+<img align ="center" src="https://github.com/Ghanes22/Ghanes22/blob/master/gif/yaiba.gif" alt="GitHub Logo"  />
 
 ### Connect with me:
 
