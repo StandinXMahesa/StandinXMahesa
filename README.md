@@ -1,8 +1,8 @@
-<img align = 'left' src="https://github.com/Ghanes22/Ghanes22/blob/master/gif/octo.gif" alt="GitHub Logo" width="175" height="200" />
+<img align = 'left' src="https://github.com/Ghanes22/Ghanes22/blob/master/gif/octo.gif" alt="GitHub Logo" width="175" height="225" />
 
 ## Ahoy, I'm Ghanes 21 years old
 
-### About me :
+### About me 💬 :
 
 - ✍️ AI Enthusiast Dreaming become a good Data Science in the future
 - 🌱 I’m currently learning AI and Back-End
