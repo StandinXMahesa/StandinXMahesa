@@ -1,4 +1,4 @@
-<img align = 'left' src="https://github.com/Ghanes22/Ghanes22/blob/master/gif/octo.gif" alt="GitHub Logo" width="200" height="225" />
+<img style = "padding-right: 10 px" align = 'left' src="https://github.com/Ghanes22/Ghanes22/blob/master/gif/octo.gif" alt="GitHub Logo" width="200" height="215" />
 
 ## Ahoy, I'm Ghanes 21 years old
 
