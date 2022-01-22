@@ -1,9 +1,10 @@
-<img align = 'left' src="https://github.com/Ghanes22/Ghanes22/blob/master/gif/octo.gif" alt="GitHub Logo" width="175" height="225" />
+<img align = 'left' src="https://github.com/Ghanes22/Ghanes22/blob/master/gif/octo.gif" alt="GitHub Logo" width="200" height="225" />
 
 ## Ahoy, I'm Ghanes 21 years old
 
 ### About me 💬 :
 
+- 🏰 Student at Telkom University with a major Telecommunication Engineering
 - ✍️ AI Enthusiast Dreaming become a good Data Science in the future
 - 🌱 I’m currently learning AI and Back-End
 - 🥅 2022 Goals: Winning Hackathon, Getting Internship and Making a lot of project
