@@ -8,7 +8,7 @@
 - ✍️ AI Enthusiast Dreaming become a good Data Science in the future
 - 🌱 I’m currently learning AI and Back-End
 - 🥅 2022 Goals: Winning Hackathon, Getting Internship and Making a lot of project
-- ⚡ Fun fact: Love Peace Hate War, and Love,and Love Wathing Anime and Series
+- ⚡ Fun fact: Love Peace, Hate War,and Love Wathing Anime and TV Series
 
 </br>
 
