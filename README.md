@@ -1,6 +1,6 @@
-<img style = "margin-right: 20 px;" align = 'left' src="https://github.com/Ghanes22/Ghanes22/blob/master/gif/octo.gif" alt="GitHub Logo" width="230"/>
+<img align = 'left' src="https://github.com/Ghanes22/Ghanes22/blob/master/gif/octo.gif" alt="GitHub Logo" width="230" margin-right="40px"/>
 
-## Ahoy Fellas !!, I'm Ghanes 23 years old
+## Ahoy Fellas !!, I'm Mahesa 23 years old
 
 ### About me 💬 :
 
