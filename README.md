@@ -1,13 +1,12 @@
-<img style = "padding-right: 10 px" align = 'left' src="https://github.com/Ghanes22/Ghanes22/blob/master/gif/octo.gif" alt="GitHub Logo" width="210" height="225" />
+<img style = "padding-right: 10 px" align = 'left' src="https://github.com/Ghanes22/Ghanes22/blob/master/gif/octo.gif" alt="GitHub Logo" width="220" height="235" />
 
 ## Ahoy, I'm Ghanes 21 years old
 
 ### About me 💬 :
 
-- 🏰 Student at Telkom University with a major Telecommunication Engineering
-- ✍️ AI Enthusiast Dreaming become a good Data Science in the future
-- 🌱 I’m currently learning AI and Back-End
-- 🥅 2022 Goals: Winning Hackathon, Getting Internship and Making a lot of project
+- ✍️ AI Enthusiast Dreaming become a good Data Science & Data Engineer & Data Analyst in the future
+- 🌱 I’m currently learning AI and Fullstack Dev
+- 🥅 2024 Goals: Work on Big 4 Company Tech
 - ⚡ Fun fact: Love Peace, Hate War,and Love Wathing Anime and TV Series
 
 </br>
