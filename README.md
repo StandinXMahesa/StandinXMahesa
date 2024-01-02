@@ -1,13 +1,13 @@
-<img style = "padding-right: 10 px" align = 'left' src="https://github.com/Ghanes22/Ghanes22/blob/master/gif/octo.gif" alt="GitHub Logo" width="220" height="235" />
+<img style = "padding-right: 30 px" align = 'left' src="https://github.com/Ghanes22/Ghanes22/blob/master/gif/octo.gif" alt="GitHub Logo" width="220" height="235" />
 
-## Ahoy, I'm Ghanes 21 years old
+## Ahoy Fellas !!, I'm Ghanes 23 years old
 
 ### About me 💬 :
 
 - ✍️ AI Enthusiast Dreaming become a good Data Science & Data Engineer & Data Analyst in the future
 - 🌱 I’m currently learning AI and Fullstack Dev
-- 🥅 2024 Goals: Work on Big 4 Company Tech
-- ⚡ Fun fact: Love Peace, Hate War,and Love Wathing Anime and TV Series
+- 🥅 2024 Goals : Work on Big 4 Company Tech
+- ⚡ Fun fact   : Love Peace, Hate War,and Love Wathing Anime and TV Series
 
 </br>
 
@@ -19,10 +19,10 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" style = "padding-left:10px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" style = "padding-left:10px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" style = "padding-left:10px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" style = "padding-left:10px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.7.0/icons/spotify.svg" />][spotify]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" style = "padding-left:10px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" target="_blank"/>][twitter]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" style = "padding-left:10px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" target="_blank" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" style = "padding-left:10px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" target="_blank" />][instagram]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" style = "padding-left:10px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.7.0/icons/spotify.svg" target="_blank" />][spotify]
 
 <br />
 
