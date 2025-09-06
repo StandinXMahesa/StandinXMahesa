@@ -83,7 +83,7 @@
 ### 2023
 - **Final Thesis Publication — IEEE Xplore**  
   *“Indoor Positioning System Using Wi-Fi RTT and Fingerprinting with KNN & Decision Tree”*  
-  📄 [Read Paper](https://ieeexplore.ieee.org/document/10317352)  
+  📄 [Read Paper](https://ieeexplore.ieee.org/document/10317352)
   ⏳ *Jul 2023 – Oct 2023*  
 
 - **Research Paper — IEEE Xplore**  
@@ -94,6 +94,7 @@
 - **Research Paper — IEEE Xplore**  
   *“Shoulder and Knee Abnormality Examination Based on Artificial Landmark Estimation”*  
   📄 [Read Paper](https://ieeexplore.ieee.org/document/10219415)  
+  🌐 [Post by Telkom University Official Account](https://www.linkedin.com/feed/update/urn:li:activity:7127940362404327424/)
   ⏳ *Jan 2023 – Jun 2023*  
 
 - **Dashboard: Sales & Traffic Tracker — PT Erajaya Swasembada Tbk**  
